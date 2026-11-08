@@ -1,0 +1,5 @@
+lesson_1/.env
+lesson_1/.venv
+.vscode
+__pycache__/
+*.pyc
